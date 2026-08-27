@@ -1,5 +1,5 @@
 const BUSINESS = {
-  whatsapp: "528131246699",
+  whatsapp: "528186891112",
   email: "oficina.gdrynex@gmail.com",
   facebook: "https://www.facebook.com/share/1EPhXAB16Q/?mibextid=wwXIfr",
   instagram: ""
